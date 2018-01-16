@@ -1,2 +1,6 @@
 # Machine-Learning-Related
-包含学习机器学习相关内容时写的程序
+包含机器学习相关课程编程作业，其中：
+1.Machine Learning URL:https://www.coursera.org/learn/machine-learning/home/welcome
+  作业用Matlab编写
+2.Machine Learning Foundations: A Case Study Approach URL:https://www.coursera.org/learn/ml-foundations/home/welcome
+  作业用python编写
