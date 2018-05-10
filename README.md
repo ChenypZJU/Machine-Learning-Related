@@ -12,3 +12,8 @@
    URL:https://www.coursera.org/learn/ml-foundations/home/welcome
   
    作业用python编写
+   
+3.Titanic -2
+   URL:https://www.kaggle.com/c/titanic
+   
+   采用python写的 
